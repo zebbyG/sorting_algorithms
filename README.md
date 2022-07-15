@@ -182,5 +182,5 @@ Write a function that sorts a deck of cards.
     - From Spades to Diamonds
 
 
-<a href="https://github.com/zebbyG">zebbyG</a>
-<a href="https://github.com/debugulize">debugulize</a>
+- <a href="https://github.com/zebbyG">zebbyG</a>
+- <a href="https://github.com/debugulize">debugulize</a>
